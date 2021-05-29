@@ -23,7 +23,6 @@ Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 **🚀 博客**
 
 - [知乎](https://www.zhihu.com/column/zhaoxuan)
-- [blog.zempty.sg](https://blog.zempty.sg) 
 
 
 
