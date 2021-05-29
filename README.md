@@ -7,7 +7,7 @@ Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 
 - 🔭 Working hard to write clean code is my pursuit :wink:
 - ⚡ The requirements to become a reality is a very exciting things. 🐶
-- 📫 The best way to reach me is to send me an email. `kickcodeman@gmail.com`
+- 📫 The best way to reach me is to send me an email: `kickcodeman@gmail.com`
 
 ###  您好 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
